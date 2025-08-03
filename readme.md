@@ -6,8 +6,8 @@
 
 ## 🖼️ Live Preview
 
-> **[🔗 View Demo (optional)](https://your-deployment-url.com)**  
-*(Replace with your hosted link if applicable)*
+> **[🔗 View Demo ](https://prashantsinha666.github.io/-StudySync---Responsive-Education-Landing-Page/)**  
+
 
 ---
 
